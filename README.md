@@ -1,4 +1,5 @@
 # All Life Bank Customer Segmentation for Credit Card Services
+Hugo Hiraoka
 
 ## Context
 AllLife Bank (ALB) wants to focus on its credit card customer base in the next financial year. ALB has been advised by its marketing research team (MRT), that the market penetration can be improved. Based on this premise, the Marketing team proposes to run personalized campaigns to target new customers as well as upsell to existing customers. Another insight from the MRT was that customers perceive the support services of ALB poorly. Considering these, the Operations team wants to improve the service delivery model to ensure that customer queries are resolved faster. The head of Marketing and the head of Delivery decide to reach out to the Data Science team for help.
