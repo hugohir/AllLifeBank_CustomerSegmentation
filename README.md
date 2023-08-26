@@ -1,8 +1,10 @@
 # All Life Bank Customer Segmentation for Credit Card Services
-Hugo Hiraoka
+
+## Summary
+
 
 ## Context
-AllLife Bank (ALB) wants to focus on its credit card customer base in the next financial year. ALB has been advised by its marketing research team (MRT), that the market penetration can be improved. Based on this premise, the Marketing team proposes to run personalized campaigns to target new customers as well as upsell to existing customers. Another insight from the MRT was that customers perceive the support services of ALB poorly. Considering these, the Operations team wants to improve the service delivery model to ensure that customer queries are resolved faster. The head of Marketing and the head of Delivery decide to reach out to the Data Science team for help.
+AllLife Bank (ALB) wants to focus on its credit card customer base in the next financial year. ALB has been advised by its marketing research team (MRT), that the market penetration can be improved. Based on this premise, the Marketing team proposes to run personalized campaigns to target new customers as well as upsell to existing customers. Another insight from the MRT was that customers perceive the support services of ALB poorly. Considering these, the Operations team wants to improve the service delivery model to ensure that customer queries are resolved faster. The head of Marketing and the head of Delivery decided to reach out to the Data Science team for help.
 
 ![](https://i.imgur.com/1XPO1qk.jpg)
 
@@ -44,13 +46,14 @@ Q3. What is the group/segment that has the most/least interactions/particular ty
 Q4. Is there a relationship between Average Credit Limit/Total Credit Cards and customer satisfaction (assuming that the number of interactions is an indication of unsolved issues)?
 Q5. What is the relationship between Average Credit Limit/Total Credit Cards to interactions/type of interactions with ALB (this question is partially addressed by Q2)?
 Q6. What recommendations can be made for each group/segment to improve customer satisfaction (assuming that the number of interactions is an indication of unsolved issues)?
-Q7. What recommendations can be made based in segment characteristics to increase market penetration/expand services to current customers?
+Q7. What recommendations can be made based on segment characteristics to increase market penetration/expand services to current customers?
 With this set of questions, we address the problems introduced earlier and make recommendations to ALB.
 
 ## Technique
 This is an unsupervised classification problem. We will classify customers into different segments using K-means Clustering and Hierarchical Clustering algorithms.
 Perform the data preprocessing, EDA analysis, and feature engineering. We will visualize features and observe relationships performing a uni and bivariate analysis.
 Attempt the classification using the K-means clustering. We will estimate the better number of clusters using the elbow method and observe silhouettes. Then we will visualize the clusters.
-Attempt the classification using hierarchical clustering. We will explore clustering with different linkage methods (i.e. single, complete, etc) and distances (i.e. euclidean, manhattan, etc) reviewing the cophenetic correlation and find the ideal number of clusters. Then we will visualize the clusters.
+Attempt the classification using hierarchical clustering. We will explore clustering with different linkage methods (i.e. single, complete, etc) and distances (i.e. euclidean, manhattan, etc) reviewing the cophenetic correlation and finding the ideal number of clusters. Then we will visualize the clusters.
+Compare K-means vs. Hierarchical clustering results.
 
-Compare K-means vs Hierachical clustering results.
+
