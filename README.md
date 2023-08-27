@@ -1,4 +1,4 @@
-# All Life Bank Customer Segmentation for Credit Card Services
+# All Life Bank Credit Card Customer Segmentation
 
 ## Summary
 
