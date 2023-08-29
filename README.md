@@ -5,7 +5,8 @@ March 5 2023 | Hugo Hiraoka | hhiraokawatts@gmail.com
 ## Context
 AllLife Bank (ALB) wants to focus on its credit card customer base in the next financial year. ALB has been advised by its marketing research team (MRT), that the market penetration can be improved. Based on this premise, the Marketing team proposes to run personalized campaigns to target new customers as well as upsell to existing customers. Another insight from the MRT was that customers perceive the support services of ALB poorly. Considering these, the Operations team wants to improve the service delivery model to ensure that customer queries are resolved faster. The head of Marketing and the head of Delivery decided to reach out to the Data Science team for help.
 
-![](https://i.imgur.com/1XPO1qk.jpg)
+![](https://i.imgur.com/uwk0kPG.jpg)
+AI Generated Image.
 
 ## Problem Definition
 Credit Card services present these problems:
