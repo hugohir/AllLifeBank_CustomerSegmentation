@@ -5,7 +5,7 @@ March 5 2023 | Hugo Hiraoka | hhiraokawatts@gmail.com
 ## Context
 A financial institution (hereafter referred to as "FI") aims to prioritize its credit card customer base in the upcoming financial year. The marketing research team (MRT) at FI has identified opportunities for enhancing market penetration. In light of this finding, the MRT proposes personalized campaigns to attract new customers and upsell to existing ones. Additionally, MRT indicates that customers perceive FI's support services poorly. Consequently, the Operations team intends to enhance the service delivery model to expedite resolution of customer queries. Recognizing these challenges, the heads of Marketing and Delivery are requesting assistance.
 
-![Credit Card Segmentation image](https://i.imgur.com/Cj0ZiaS.jpg)
+![Credit Card Segmentation image](https://i.imgur.com/eLxh8Yz.jpg)
 AI Generated Image.
 
 ## Problem Definition
